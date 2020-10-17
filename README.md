@@ -4,11 +4,11 @@ The code for this is temporarily available and will become private in some time.
 
 # Dependencies: 
 For the visual format need XMING installed and set up.
-<p> </p>
+
 ![Gameplay](biquad.JPG?raw=true "")
-<p> </p>
+
 Otherwise playing via the command line is also an option.
-<p> </p>
+
 ![Gameplay](biput.JPG?raw=true "")
 
 
