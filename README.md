@@ -4,7 +4,7 @@ The code for this is temporarily available and will become private in some time.
 
 # Dependencies: 
 For the visual format need XMING installed and set up.
-
+![Gameplay](biquad.JPG?raw=true "")
 Otherwise playing via the command line is also an option.
 
 
