@@ -11,7 +11,7 @@ Otherwise playing via the command line is also an option.
 Gameplay is very similar to Tetris, if you get a row filled with blocks then the row will disappear and the blocks on top will shift down. Whoever has the highest score by the time the block goes 'through the top' wins (use this to build your strategy). The generation of blocks are determined by a randomized seed, but as the levels get harder the blocks that come will be harder and harder to place.
 
 # Play:
-To run simply do ./biquadris
+To run go into the folder biquadris-master and do ./biquadris
 
 # Moves:
 Movement is standard and as expected (ex. to move right simply type right and then hit enter). Move options include right, left, down, (up is not available but undo is available according to preferences), drop, clockwise (for clockwise rotation), counterclockwise (for counterclockwise rotation).
